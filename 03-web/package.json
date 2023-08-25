@@ -1,5 +1,5 @@
 {
-  "name": "02-web",
+  "name": "03-web",
   "version": "1.0.0",
   "description": "npx tailwindcss init<br>",
   "main": "tailwind.config.js",
